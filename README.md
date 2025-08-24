@@ -1,4 +1,4 @@
-# Amazon UI Clone (Vanilla JS)
+# Amazon UI Clone
 
 This project is a simple recreation of the Amazon website user interface using **HTML, CSS, and Vanilla JavaScript**.  
 It is built purely for practice purposes to strengthen front-end development skills without the use of external frameworks or libraries.
